@@ -1,0 +1,7 @@
+{
+  "name": "git-pages-example-2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
